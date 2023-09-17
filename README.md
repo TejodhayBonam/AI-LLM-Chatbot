@@ -1,8 +1,7 @@
 # AI Documentation Chatbot (Powered by ChatGPT 3.5)
 
-The source code for James Bot, a bot that makes reference to a corpus of documents to answer questions.
+The source code for AI Documentation ChatBot, a bot that makes reference to a corpus of documents to answer questions.
 
-![A screenshot of James Bot, a chatbot that can answer questions using information from James' Coffee Blog](screenshot.png)
 
 ## How it Works
 
