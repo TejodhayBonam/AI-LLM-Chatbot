@@ -261,11 +261,3 @@ When you run this command, the script will iterate through all the JSON document
 The results are printed to the console after all Evaluations have been executed.
 
 You can also review the results of the most recent evaluation by opening `http://localhost:5000/eval` in the web application. You need to be authenticated as an administrative user to access this page.
-
-## Contributors
-
-- capjamesg
-
-## License
-
-This project is licensed under an [MIT 0 (No-Attribution) License](LICENSE).
